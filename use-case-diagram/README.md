@@ -17,9 +17,5 @@ This diagram illustrates the key actors and their interactions within the Airbnb
 - Review and Rating System
 - Admin Management Dashboard
 
-Use Case Diagram
-
-Below is the system use case diagram illustrating the main interactions among actors and the Airbnb-like platform.
-
-![Use Case Diagram](use-case-diagram/use_case_diagram.png)
-![alt text](image.png)
+## 📊 Diagram
+![Airbnb Use Case Diagram](airbnb-use-case-diagram.png)
