@@ -3,7 +3,6 @@
 ## 🎯 Objective
 The goal of this phase is to identify and document all key features and functionalities of the **Airbnb Clone Backend**. This documentation will serve as a technical and functional blueprint for building a scalable, secure, and robust backend system.
 
----
 
 ## 1. 🧑‍💻 User Management
 
@@ -23,7 +22,6 @@ The goal of this phase is to identify and document all key features and function
 - Profile pictures upload.
 - Hosts can toggle availability or deactivate their profile.
 
----
 
 ## 2. 🏡 Property Listings Management
 
@@ -40,7 +38,6 @@ The goal of this phase is to identify and document all key features and function
 - Hosts can delete listings they own.
 - Changes are reflected in real-time.
 
----
 
 ## 3. 🔍 Search and Filtering
 
@@ -55,7 +52,6 @@ The goal of this phase is to identify and document all key features and function
 - Sort by rating, price, and most booked.
 - Supports pagination for large datasets.
 
----
 
 ## 4. 📅 Booking Management
 
@@ -72,7 +68,6 @@ The goal of this phase is to identify and document all key features and function
 - Tracks states: **Pending**, **Confirmed**, **Cancelled**, **Completed**.
 - Sends automatic notifications on status changes.
 
----
 
 ## 5. 💳 Payment Integration
 
@@ -85,7 +80,6 @@ The goal of this phase is to identify and document all key features and function
 - Supports multiple currencies and exchange rates.
 - Securely stores payment and transaction records.
 
----
 
 ## 6. ⭐ Reviews and Ratings
 
@@ -97,7 +91,6 @@ The goal of this phase is to identify and document all key features and function
 - Hosts can reply to guest reviews.
 - Prevents spam or unauthorized reviews.
 
----
 
 ## 7. 🔔 Notifications System
 
@@ -108,7 +101,6 @@ The goal of this phase is to identify and document all key features and function
   - Payment updates
   - Review reminders
 
----
 
 ## 8. 🛠️ Admin Dashboard
 
@@ -118,7 +110,6 @@ The goal of this phase is to identify and document all key features and function
 - Track bookings, payments, and reviews.
 - Generate reports and system analytics.
 
----
 
 ## 🧩 Technology Overview (Optional Preview)
 - **Backend Framework:** Django REST / Express.js / FastAPI (depending on track)
@@ -127,20 +118,17 @@ The goal of this phase is to identify and document all key features and function
 - **Payments:** Stripe / PayPal
 - **Storage:** AWS S3 or Cloudinary for images
 
----
 
 ## 📄 Deliverables
 - File: `features-and-functionalities/README.md`
 - Diagram: Export your Draw.io system overview as `airbnb_features.png` and include it in the same directory.
 
----
 
 ## 🧠 Next Steps
 - Create ERD (Entity Relationship Diagram)
 - Define API endpoints and routes
 - Write schema and seed data scripts
 
----
 
 **Author: Fred Danjuma
 **Repository:** (https://github.com/Freddanjuma/alx-airbnb-project-documentation.git)
